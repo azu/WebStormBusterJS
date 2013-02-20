@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Buster Server" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="$USER_HOME$/.nodebrew/current/bin/node" path-to-js-file="$USER_HOME$/.nodebrew/current/bin/buster-server" working-dir="$PROJECT_DIR$">
+    <RunnerSettings RunnerId="NodeJS.debug" />
+    <RunnerSettings RunnerId="NodeJS.run" />
+    <ConfigurationWrapper RunnerId="NodeJS.debug" />
+    <ConfigurationWrapper RunnerId="NodeJS.run" />
+    <method />
+  </configuration>
+</component>
